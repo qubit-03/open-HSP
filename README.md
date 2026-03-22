@@ -48,7 +48,7 @@ cd openHSP
 pip install -r requirements.txt
 
 # Run the application
-python openHSP_BEAUTIFUL.py
+python main.py
 ```
 
 ### Requirements
