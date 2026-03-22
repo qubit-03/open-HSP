@@ -1,0 +1,256 @@
+Name,D,P,H
+Ethanol, 15.8, 8.8, 19.4
+Acetaldehyde,14.7,12.5,7.9
+Acetic acid,14.5,8.0,13.5
+Acetic anhydride,16.0,11.7,10.2
+Acetone,15.5,10.4,7.0
+Acetonitrile,15.3,18.0,6.1
+Acetophenone,19.6,8.6,3.7
+Acrylonitrile,16.0,12.8,6.8
+Allyl alcohol,16.2,10.8,16.8
+Amyl acetate,15.8,3.3,6.1
+Aniline,19.4,5.1,10.2
+Anisole,17.8,4.1,6.7
+Benzaldehyde,19.4,7.4,5.3
+Benzene,18.4,0.0,2.0
+"1,3-Benzenediol",18.0,8.4,21.0
+Benzoic acid,18.2,6.9,9.8
+Benzonitrile,17.4,9.0,3.3
+Benzyl alcohol,18.4,6.3,13.7
+Benzyl butyl phthalate,19.0,11.2,3.1
+Benzyl chloride,18.8,7.1,2.6
+Biphenyl,19.7,1.0,2.0
+Bromobenzene,20.5,5.5,4.1
+Bromochloromethane,17.3,5.7,3.5
+Bromoform,21.4,4.1,6.1
+1-Bromonaphtalene,20.3,3.1,4.1
+Bromotrifluoromethane,9.6,2.4,0.0
+Butane,14.1,0.0,0.0
+"1,3-Butanediol",16.6,10.0,21.5
+1-Butanol,16.0,5.7,15.8
+2-Butanol,15.8,5.7,14.5
+Butyl acetate,15.8,3.7,6.3
+Sec-butyl acetate,15.0,3.7,7.6
+Butyl acrylate,15.6,6.2,4.9
+Butylamine,16.2,4.5,8.0
+Butyl lactate,15.8,6.5,10.2
+Butyraldehyde,15.6,10.1,6.2
+Butyric acid,14.9,4.1,10.6
+Gamma butyrolactone,19.0,16.6,7.4
+Butyronitrile,15.3,12.4,5.1
+Carbon disulfide,20.5,0.0,0.6
+Carbon tetrachloride,17.8,0.0,0.6
+Chlorobenzene,19.0,4.3,2.0
+1-Chlorobutane,16.2,5.5,2.0
+Chlorodifluoromethane,12.3,6.3,5.7
+Chloroform,17.8,3.1,5.7
+3-Chloro-1-propanol,17.5,5.7,14.7
+m-cresol,18.0,5.1,12.9
+Cyclohexane,16.8,0.0,0.2
+Cyclohexanol,17.4,4.1,13.5
+Cyclohexanone,17.8,8.4,5.1
+Cyclohexylamine,17.2,3.1,6.5
+Cyclohexylchloride,17.3,5.5,2.0
+Cis-decahydronaphthalene,18.8,0.0,0.0
+Trans-decahydronaphthalene,18.0,0.0,0.0
+Decane,15.7,0.0,0.0
+1-Decanol,16.0,4.7,10.0
+Diacetone alcohol,15.8,8.2,10.8
+Dibenzyl ether,19.6,3.4,5.2
+Dibutyl phthalate,17.8,8.6,4.1
+Dibutyl sebacate,13.9,4.5,4.1
+o-dichlorobenzene,19.2,6.3,3.3
+"2,2-Dichlorodiethyl ether",18.8,9.0,5.7
+Dichlorodifluoromethane,12.3,2.0,0.0
+"1,1-Dichloroethane",16.5,7.8,3.0
+"1,1-Dichloroethylene",16.4,52.0,24.0
+Di-(2-chloro-isopropyl) ether,19.0,8.2,5.1
+Dichloromonofluoromethane,15.8,3.1,5.7
+"1,2-Dichlorotetrafluoroethane",12.6,1.8,0.0
+Di-iso-butyl carbinol,14.9,3.1,10.8
+Diethanolamine,17.2,10.8,21.2
+Diethylamine,14.9,2.3,6.1
+2-(Diethylamino) ethanol,14.9,5.8,12.0
+Para-diethy l benzene,18.0,0.0,0.6
+Diethyl carbonate,15.1,6.3,3.5
+Diethylene glycol,16.6,12.0,20.7
+Diethylene glycol butyl ether acetate,16.0,4.1,8.2
+Diethylene glycol hexyl ether,16.0,6.0,10.0
+Diethylene glycol monobutyl ether,16.0,7.0,10.6
+Diethylene glycol monoethyl ether,16.1,9.2,12.2
+Diethylene glycol monomethyl ether,16.2,7.8,12.6
+Diethylenetriamine,16.7,13.3,14.3
+Diethyl ether,14.5,2.9,5.1
+Diethyl ketone,15.8,7.6,4.7
+Diethyl phthalate,17.6,9.6,4.5
+Diethyl sulfate,15.7,14.7,7.1
+Diethyl sulfide,16.8,3.1,2.0
+Di(isobutyl) ketone,16.0,3.7,4.1
+Di(2-methoxyethyl) ether,15.7,6.1,6.5
+"N,N-dimethylacetamide",16.8,11.5,10.2
+Dimethylformamide,17.4,13.7,11.3
+"1,1-Di methyl hydrazine",15.3,5.9,11.0
+Dimethyl phthalate,18.6,10.8,4.9
+Dimethyl sulfone,19.0,19.4,12.3
+Dimethyl sulfoxide,18.4,16.4,10.2
+Dioctyl phthalate,16.6,7.0,3.1
+"1,4-Dioxane",19.0,1.8,7.4
+Dipropylamine,15.3,1.4,4.1
+Dipropylene glycol,16.5,10.6,17.7
+Dipropyiene glycol methyl ether,15.5,5.7,11.2
+Dodecane,16.0,0.0,0.0
+Eicosane,16.5,0.0,0.0
+Epichlorohydrin,18.9,7.6,6.6
+Ethanethiol,15.7,6.5,7.1
+Ethanol,15.8,8.8,19.4
+Ethanolamine,17.0,15.5,21.2
+Ethyl acetate,15.8,5.3,7.2
+Ethyl acrylate,15.5,7.1,5.5
+Ethyl amyl ketone,16.2,4.5,4.1
+Ethylbenzene,17.8,0.6,1.4
+Ethyl bromide,16.5,8.4,2.3
+2-Ethyl-1-butanol,15.8,4.3,13.5
+Ethyl butyl ketone,16.2,5.0,4.1
+Ethyl chloride,15.7,6.1,2.9
+Ethyl chloroformate,15.5,10.0,6.7
+Ethyl cinnamate,18.4,8.2,4.1
+Ethylene carbonate,19.4,21.7,5.1
+Ethylene cyanohydrin,17.2,18.8,17.6
+Ethylenediamine,16.6,8.8,17.0
+Ethylene dibromide,19.2,3.5,8.6
+Ethylene dichloride,19.0,7.4,4.1
+Ethylene glycol,17.0,11.0,26.0
+Ethylene glycol butyl ether acetate,15.3,4.5,8.8
+Ethylene glycol monobutyl ether,16.0,5.1,12.3
+Ethylene glycol monoethyl ether,16.2,9.2,14.3
+Ethylene glycol monoethyl ether acetate,15.9,4.7,10.6
+Ethylene glycol monomethyl ether,16.2,9.2,16.4
+Ethylene glycol monomethyl ether acetate,15.9,5.5,11.6
+Ethyl formate,15.5,8.4,8.4
+2-Ethyl hexanol,15.9,3.3,11.8
+Ethyl lactate,16.0,7.6,12.5
+Formamide,17.2,26.2,19.0
+Formic acid,14.3,11.9,16.6
+Furan,17.8,1.8,5.3
+Furfural,18.6,14.9,5.1
+Furfuryl alcohol,17.4,7.6,15.1
+Glycerol,17.4,12.1,29.3
+Heptane,15.3,0.0,0.0
+Hexadecane,16.3,0.0,0.0
+Hexamethylphosphoramide,18.5,8.6,11.3
+Hexane,14.9,0.0,0.0
+Hexylene glycol,15.7,8.4,17.8
+Isoamyl acetate,15.3,3.1,7.0
+Isobutyl acetate,15.1,3.7,6.3
+Isobutyl alcohol,15.1,5.7,15.9
+Isobutyl isobutyrate,15.1,2.9,5.9
+Isooctyl alcohol,14.4,7.3,12.9
+Isopentane,13.7,0.0,0.0
+Isophorone,16.6,8.2,7.4
+Isopropyl palmitate,14.3,3.9,3.7
+Mesitylene,18.0,0.0,0.6
+Mesityl oxide,16.4,6.1,6.1
+Methacrylonitrile,15.8,15.1,5.4
+Methanol,15.1,12.3,22.3
+o-Methoxyphenol,18.0,8.2,13.3
+Methyl acetate,15.5,7.2,7.6
+Methyl acrylate,15.3,6.7,9.4
+Methylal,15.0,1.8,8.6
+Methyl amyl acetate,15.2,3.1,6.8
+Methyl butyl ketone,15.3,6.1,4.1
+Methyl chloride,15.3,6.1,3.9
+Methylcyclohexane,16.0,0.0,1.0
+Methylene dichloride,18.2,6.3,6.1
+Methylene diiodide,17.8,3.9,5.5
+Methyl ethyl ketone,16.0,9.0,5.1
+Methyl isoamyl ketone,16.0,5.7,4.1
+Methyl isobutyl carbinol,15.4,3.3,12.3
+Methyl isobutyl ketone,15.3,6.1,4.1
+Methyl methacrylate,15.8,6.5,54.0
+1-Methylnaphthalene,20.6,0.8,4.7
+Methyl oleate,14.5,3.9,3.7
+2-Methyl-1-propanol(repeated),15.1,5.7,15.9
+Methyl-2-pyrrolidone,18.0,12.3,7.2
+Methyl salicylate,18.1,8.0,13.9
+Morpholine,18.8,4.9,9.2
+"Naphtha,high-flash",17.9,0.7,1.8
+Naphthalene,19.2,2.0,5.9
+Nitrobenzene,20.0,8.6,4.1
+Nitroethane,16.0,15.5,4.5
+Nitromethane,15.8,18.8,5.1
+1-Nitropropane,16.6,12.3,5.5
+2-Nitropropane,16.2,12.1,4.1
+Nonane,15.7,0.0,0.0
+Nonyl phenol,16.5,4.1,9.2
+Nonyl phenoxy ethanol,16.7,10.2,8.4
+Octane,15.5,0.0,0.0
+Octanoic acid,15.1,3.3,8.2
+1-Octanol,16.0,5.0,11.9
+2-Octanol,16.1,4.9,11.0
+Oleic acid,16.0,28.0,6.2
+Oleyl alcohol,16.0,2.6,8.0
+Pentane,14.5,0.0,0.0
+"2,4-Pentanedione",17.1,9.0,4.1
+1-Pentanol,15.9,5.9,13.9
+Perfluoro(dimethylcyclohexane),12.4,0.0,0.0
+Perfluoroheptane,12.0,0.0,0.0
+Perfluoromethylcyclohexane,12.4,0.0,0.0
+Phenol,18.0,5.9,14.9
+Bis-(m-phenoxyphenyl) ether,19.6,3.1,5.1
+1-Propanol,16.0,6.8,17.4
+2-Propanol,15.8,6.1,16.4
+Propionitrile,15.3,14.3,5.5
+Propylamine,16.9,4.9,8.6
+Propyl chloride,16.0,7.8,2.0
+Propylene carbonate,20.0,18.0,4.1
+Propylene glycol,16.8,9.4,23.3
+Propylene glycol monobutyl ether,15.3,4.5,9.2
+Propylene glycol monoethyl ether,15.7,6.5,10.5
+Propylene glycol monoisobutyl ether,15.1,4.7,9.8
+Propylene glycol monomethyl ether,15.6,6.3,11.6
+Propylene glycol monophenyl ether,17.4,5.3,11.5
+Propylene glycol monopropyl ether,15.8,7.0,9.2
+Pyridine,19.0,8.8,5.9
+2-Pyrolidone,19.4,17.4,11.3
+Quinoline,19.4,5.6,5.7
+Stearic acid,16.3,3.3,5.5
+Styrene,18.6,1.0,4.1
+Succinic anhydride,18.6,19.2,16.6
+"1,1,2,2-Tetrabromoethane",22.6,5.1,8.2
+"1,1,2,2-Tetrachloroethane",18.8,5.1,9.4
+Tetrachloroethylene,18.3,5.7,0.0
+Tetraethylorthosilicate,13.9,4.3,0.6
+Tetrahydrofuran,16.8,5.7,8.0
+Tetrahydronaphthalene,19.6,2.0,2.9
+Tetramethylurea,16.7,8.2,11.0
+Toluene,18.0,1.4,2.0
+Tributyl phosphate,16.3,6.3,4.3
+Trichlorobiphenyl,19.2,5.3,4.1
+"1,1,1-Trichloroethane",16.8,4.3,2.0
+Trichloroethylene,18.0,3.1,5.3
+Trichlorofluoromethane,15.3,2.0,0.0
+"1,1,2-Trichlorotrifluoroethane",14.7,1.6,0.0
+Tricresyl phosphate,19.0,12.3,4.5
+Tridecyl alcohol,16.2,3.1,9.0
+Triethanolamine,17.3,22.4,23.3
+Triethylamine,17.8,0.4,1.0
+Triethyleneglycol,16.0,12.5,18.6
+Triethylene glycol monooleyl ether,16.0,3.1,8.4
+Triethylphosphate,16.7,11.4,9.2
+Trifluoroacetic acid,15.6,9.9,11.6
+Trimethylbenzene,18.0,1.0,1.0
+"2,2,2,4-Trimethylpentane",14.1,0.0,0.0
+"2,2,4-Trimethyl-1,3-pentanediol monoisobutyrate",15.1,6.1,9.8
+Trimethyl phosphate,16.7,15.9,10.2
+Water,15.5,16.0,42.3
+m-Xylene,17.6,1.0,3.1
+o-xylene,17.8,1.0,3.1
+t-Butyl Alcohol,15.2,5.1,14.7
+1-Methylimidazole,19.7,15.6,11.2
+Isopropyl Ether,15.1,3.2,3.2
+Methyl-t-Butyl Ether,14.8,4.3,5.0
+Tetronic_1107, 16.37, 14.72, 8.50
+Tetronic_1307, 16.02, 11.75, 6.79
+Tetronic_90R4, 14.58, 10.72, 6.19
+Poloxamer_188, 15.96, 11.71, 6.76
+Poloxamer_407, 15.35, 11.28, 6.51
