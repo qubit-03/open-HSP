@@ -1,0 +1,6 @@
+# openHSP - Core Dependencies
+PySide6>=6.0.0
+pandas>=1.0.0
+numpy>=1.19.0
+scipy>=1.5.0
+plotly>=5.0.0
